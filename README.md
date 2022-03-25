@@ -15,6 +15,4 @@ N0rlov/N0rlov is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-Languages: 
-	Python, Java, C++, Javascrypt, HTML/CSS,
-	Assembly?, SQL?
+Languages: Python, Java, C++, C#, Javascrypt, HTML/CSS, Assembly?, SQL?
