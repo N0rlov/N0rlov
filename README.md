@@ -6,7 +6,7 @@ My projects that I plan on finishing (ask me about any of these):
 - Aerodynamics engine (math stage)
 - 3space wireframe 3d mesh rasterizer (finished, awaiting implementation. https://www.desmos.com/calculator/q9va9lfzpk)
 - Web-Based school administration software (SchoolBase, source code not publically available) (in progress, launch expected to be soon)
-- An implementation of my inverse kinematics (finished, awaiting implementation. https://www.desmos.com/calculator/jjex4edkdc)
+- An implementation of my inverse kinematics algorithm (finished, awaiting implementation. https://www.desmos.com/calculator/jjex4edkdc)
 
 You can reach me at my email nikita.orlov.r@gmail.com
 
